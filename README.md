@@ -42,4 +42,4 @@
 
 ---
 
-✨ *“Consistency and curiosity are my superpowers — Learning never stops.”*  
+
