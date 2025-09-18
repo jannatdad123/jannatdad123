@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jannat  
+# Hi there , I'm Jannat  
 
 🎓 I'm a **Computer Science student** at *University of Turbat*  
 🐍 Skilled in **Python** and exploring its potential  
