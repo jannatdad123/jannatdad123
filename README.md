@@ -1,45 +1,58 @@
-# Hi there , I'm Jannat  
+# Hi there, I'm Jannat 👋
 
-🎓 I'm a **Computer Science student** at *University of Turbat*  
-🐍 Skilled in **Python** and exploring its potential  
-📱 Passionate about **App Development (Flutter)**  
-🌐 Interested in **Web Development** and creating interactive websites  
-💡 Love experimenting with projects & learning through challenges ✨  
-
----
-
-## 🚀 Skills & Learning  
-
-### 🔹 Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-
-### 🔹 Currently Exploring  
-- Python projects & automation  
-- Flutter for **App Development**  
-- **Web Development** with HTML, CSS, JavaScript  
-- Data Structures & Algorithms  
-- Version Control with Git & GitHub  
+🎓 Computer Science student at **University of Turbat**  
+📱 Building beginner mobile applications with **Flutter**  
+🐍 Working with **Python** and object-oriented programming through academic projects  
+💡 Interested in app development, problem solving, and AI-assisted project building  
+🤝 Learning through projects, hackathons, and practical experimentation  
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Tech Stack
 
-![Jannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannatdad123&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatdad123&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jannat-dad-014a22273)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jannatdad_/)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-F7B93E?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
+## 📚 Currently Learning
 
+- Python fundamentals
+- Object-Oriented Programming (OOP)
+- Flutter app development
+- Git & GitHub
+- Basic machine learning concepts
+- Problem solving
+
+---
+
+## 📌 Projects
+
+**SpendWise – Expense Tracker App**  
+Flutter-based mobile application for tracking daily expenses using local storage with Hive.
+
+**Skin Disease Detection Prototype (Hackathon Team Project)**  
+Built as a collaborative hackathon project focused on healthcare problem-solving and prototype development.
+
+**Animal Classification System (Python OOP Project)**  
+Beginner-level project built to practice object-oriented programming concepts.
+
+---
+
+## 📊 GitHub Stats
+
+![Jannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannatdad123&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatdad123&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jannat-dad-014a22273)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jannatdad123)
